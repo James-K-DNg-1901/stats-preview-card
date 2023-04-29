@@ -1,5 +1,4 @@
 body {
-    height: 100rem;
     color: #fff;
     font-family: 'Inter', sans-serif;
     background-color: hsl(233, 47%, 7%);
@@ -23,6 +22,7 @@ b {
 .card-container {
     width: 68rem;
     height: 26.75rem;
+    margin: 10%;
     background-color: hsl(244, 38%, 16%);
     border-radius: 10px;
     display: flex;

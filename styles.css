@@ -80,7 +80,7 @@ b {
     transition: 0.3s;
 }
 
-@media (max-width: 900px) {
+@media (min-width: 900px) {
     .card-container {
         width: 22.75rem;
         height: 55rem;

@@ -49,6 +49,7 @@ b {
 
 .title-container {
     width: 26.75rem;
+    color: hslahsl(0, 0%, 100%);
     font-size: 1.15rem;
     font-weight: bold;
 }

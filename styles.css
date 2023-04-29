@@ -22,7 +22,7 @@ b {
 .card-container {
     width: 68rem;
     height: 26.75rem;
-    margin-top: 1rem;
+    margin-top: 3rem;
     background-color: hsl(244, 38%, 16%);
     border-radius: 10px;
     display: flex;
